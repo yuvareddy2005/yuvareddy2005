@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVjY2toMDJnaDEyYTBic2Vka2YwYjJ1dWpuMG9xam02dDF5amxiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Software Developer Welcome GIF">
+</p>
+
 # 💫 About Me:
 👋 Hello there!<br>🔭 I’m currently working on... building and refining "Campus Connect," a full-stack social media application for students, and exploring other projects that integrate AI and data science.<br><br>🌱 I’m currently learning... more advanced concepts in Spring Boot and exploring best practices for building scalable, data-driven applications.<br><br>👯 I’m looking to collaborate on... open-source projects or team projects using Java, Spring Boot, and PostgreSQL.<br><br>🤝 I’m looking for help with... diving deeper into advanced SQL, query optimization, and AI integration for web apps.<br><br>💬 Ask me about... Java, Spring Boot, SQL, and getting started with full-stack development.<br><br>⚡ Fun fact... Why do Java developers wear glasses? Because they don't C#!
 
